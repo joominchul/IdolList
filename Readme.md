@@ -11,5 +11,6 @@
 
 # 앱 작동 화면
 - 아이돌 리스트
-
+<img src = "https://github.com/joominchul/IdolList/blob/master/%EC%95%84%EC%9D%B4%EB%8F%8C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.png?raw=true"/>
 - 세부 정보
+<img src="https://github.com/joominchul/IdolList/blob/master/%EC%84%B8%EB%B6%80%20%EC%A0%95%EB%B3%B4.png?raw=true"/>
